@@ -1,0 +1,20 @@
+@media (min-width:640px) {
+    .menu-items{
+        width: 50%;
+    }
+}
+@media (min-width:768px) {
+    .menu-items{
+        width: 33.3333%;
+    }
+}
+@media (min-width:1024px) {
+    .menu-items{
+        width: 25%;
+    }
+}
+/* @media (min-width:1280px){
+    .menu-items{
+        width: 20%;
+    }
+} */
